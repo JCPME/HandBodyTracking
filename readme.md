@@ -13,7 +13,7 @@ pip install pyorbbecsdk-2.0.15-cp312-cp312-linux_x86_64.whl
 2. Install the requirements
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage

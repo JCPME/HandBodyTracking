@@ -1,0 +1,11 @@
+absl-py==2.3.1
+cffi==2.0.0
+flatbuffers==25.12.19
+mediapipe==0.10.31
+numpy==2.2.6
+opencv-python==4.12.0.88
+pybind11==3.0.1
+pycparser==2.23
+setuptools==80.9.0
+sounddevice==0.5.3
+wheel==0.45.1
