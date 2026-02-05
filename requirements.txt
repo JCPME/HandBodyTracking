@@ -1,0 +1,12 @@
+absl-py==2.3.1
+cffi==2.0.0
+flatbuffers==25.12.19
+mediapipe==0.10.31
+numpy==2.2.6
+opencv-python==4.12.0.88
+pybind11==3.0.1
+pycparser==2.23
+pyorbbecsdk @ file:///home/julien/Downloads/pyorbbecsdk-2.0.15-cp312-cp312-linux_x86_64.whl#sha256=c46ce162096db4040344d8ce9c6b2f4909a50eb7b5e7dbec4788cfe5ccd59317
+setuptools==80.9.0
+sounddevice==0.5.3
+wheel==0.45.1
