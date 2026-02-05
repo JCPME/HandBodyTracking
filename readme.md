@@ -18,6 +18,9 @@ pip install -r requirements.txt
 
 ## Usage
 
+```
+python3 handtracking.py
+```
 
 ## Contributing
 
